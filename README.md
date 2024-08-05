@@ -12,7 +12,9 @@
   </tfoot>
 </table>
 
+
 ![Lab 7 Assignment](https://github.com/allegheny-college-cmpsc-104-Fall-2024/lab07/blob/main/graphics/restructuredtext.png)
+
 
 ## Assignment Overview
 
