@@ -54,6 +54,7 @@ These assignment learning outcomes contribute to the following course learning o
 
 ### _Notes_: 
 - Within `writing/reStructedText.md`, you will find tasks awaiting your completion. As you work, please ensure to remove all markers indicating pending work.
+- - Ensure you have installed the Sphinx Read the Docs theme by running: `pip install sphinx-rtd-theme`.
 
 ## Resources
 - reStructuredText Documentation: https://docutils.sourceforge.io/rst.html

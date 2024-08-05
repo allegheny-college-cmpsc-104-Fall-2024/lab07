@@ -8,9 +8,6 @@ Lab 7 Assignment
 
 Welcome to Lab 7 Sphinx documentation! Please include your detailed information about the calculator Python project in the calculator.rst.
 
-.. image:: https://github.com/allegheny-college-cmpsc-104-Fall-2024/lab07/blob/main/graphics/restructuredtext.png?raw=true
-   :alt: reStructuredText
-
 Getting Started
 ===============
 
