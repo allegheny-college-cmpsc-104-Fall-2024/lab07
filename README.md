@@ -4,11 +4,11 @@
 <table>
   <thead>
       <td style="text-align:left;">Assigned</td>
-      <td style="text-align:left;">Monday 9 September 2024</td>
+      <td style="text-align:left;">Monday 28 Oct. 2024</td>
   </thead>
   <tfoot>
       <td style="text-align:left; color: red;">Deadline</td>
-      <td style="text-align:left;">Friday 13 September 2024</td>
+      <td style="text-align:left;">Friday 1 Nov. 2024</td>
   </tfoot>
 </table>
 
@@ -45,11 +45,11 @@ These assignment learning outcomes contribute to the following course learning o
 ## Instructions
 
 ### Part 1: reStructedText 
-- Follow the instructions and complete the sections marked as TODO in the `reStructuredText.md` file.
+- Follow the instructions and complete the sections marked as TODO in the `writing/reStructuredText.md` file.
 
 ### Part 2: Documenting the Calculator Project
-  - Navigate to the sphinx directory and Open calculator/main.py.
-  - Edit the `calculator.rst` file located in `sphinx/source/calculator.rst` to include detailed documentation for each function in the calculator module.
+  - Open `calculator/main.py`.
+  - Navigate to the sphinx directory and edit the `calculator.rst` file located in `source/calculator.rst` to include detailed documentation for each function in the calculator module (`calculator/main.py`).
   - Run Sphinx to generate the documentation: `make html`
 
 ### _Notes_: 
@@ -61,7 +61,7 @@ These assignment learning outcomes contribute to the following course learning o
 - Sphinx Documentation: https://www.sphinx-doc.org/en/master/
 
 ## Deliverables
-Please submit your work by pushing it to your GitHub Classroom repository.
+Please submit your work by pushing it to your GitHub repository.
 - You will modify the files `writing/reStructedText.md` and `sphinx/source/calculator.rst` to respond questions in the document.
 - You will use Sphinx to generate HTML documentation for the Calculator project.
 
